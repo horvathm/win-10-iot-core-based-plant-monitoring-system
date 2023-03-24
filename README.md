@@ -10,11 +10,11 @@ This project is the continuation of my previous plant monitoring system that can
 ## Schematic diagram from top view
 ![Schematic diagram from top view](https://user-images.githubusercontent.com/4739573/227469857-076ada7e-d133-418b-b40d-b33ff43f9042.png)
 
-## Schenatic diagram from the wiring
+## Schematic diagram from the wiring
 ![Schenatic diagram from the wiring](https://user-images.githubusercontent.com/4739573/227470964-4be0e303-ce4b-4d96-8262-661b9aeec905.png)
 
 ## Flow chart of the automatic irrigation mode
-![Flow chart of the automatic irrigation mode](https://user-images.githubusercontent.com/4739573/227471240-57169c6d-7690-4a8d-ab59-d1b9685f5f9e.png)
+![Flow chart of the automatic irrigation mode](https://user-images.githubusercontent.com/4739573/227474354-2e58078d-c16a-4d79-9477-33fe6ce86e93.png)
 
 ## GUI #1
 ![GUI #1](https://user-images.githubusercontent.com/4739573/227471474-29beaca2-fdab-4fb2-a27c-9396d975b84c.png)
